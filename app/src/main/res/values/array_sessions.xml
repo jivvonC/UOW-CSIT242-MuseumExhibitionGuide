@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_sessions">
+        <item>09:30~11:00</item>
+        <item>11:30~13:00</item>
+        <item>13:30~15:00</item>
+        <item>15:30~17:00</item>
+        <item>17:30~19:00</item>
+        <item>19:30~21:00</item>
+    </string-array>
+</resources>

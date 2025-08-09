@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Exhibition guide</string>
+    <string name="name">Great Museum</string>
+    <string name="about">"  "About</string>
+    <string name="whatsOn">"  "What\'s on</string>
+    <string name="sessions">"  "Sessions</string>
+    <string name="tickets">"  "Tickets</string>
+    <string name="chooseEx">Exhibition</string>
+    <string name="chooseDate">Date &amp; Time</string>
+    <string name="chooseNum">Number of visitors</string>
+    <string name="total">Total</string>
+    <string name="addToCart">Add to Cart</string>
+    <string name="next">Next</string>
+    <string name="museum">The Great Museum</string>
+    <string name="explanation">Built over and around the remains of Sydney’s First Government House, the Museum of Sydney is a special place.</string>
+    <string name="explanation2">Join us on Gadigal Country for a changing program of exhibitions, events and conversations that explore the character, cultures and soul of this city, and celebrate the diversity, strength and resilience of its First Nations custodians.</string>
+    <string name="contact">Contact</string>
+    <string name="address">161 O\'Connell Street, Kingswood NSW 2747 Australia</string>
+    <string name="phone">Phone: + 61 2 9673 1788</string>
+    <string name="artgallery">"  "The Art Gallery</string>
+    <string name="WWI">"  "WWI Exhibition</string>
+    <string name="space">"  "Exploring the space</string>
+    <string name="visualshow">"  "Visual show</string>
+    <string name="artdes">An art gallery is a space dedicated to the exhibition of visual artworks, including paintings, sculptures, and photographs."\n""\n" It offers visitors a chance to experience both classical and contemporary works from local and international artists."\n""\n" Through curated exhibitions, the gallery aims to inspire creativity and foster a deeper appreciation for the arts."\n""\n" Educational programs and guided tours are also available to enhance the visitor experience and encourage lifelong engagement with art.</string>
+    <string name="wwides">The WWI Exhibition explores the global impact and human cost of the First World War through personal stories, artifacts, and multimedia displays."\n""\n" Visitors can discover how the war shaped modern history and affected millions of lives around the world."\n""\n" Rare photographs, letters, and uniforms offer a powerful glimpse into life on the front lines and at home."\n""\n" The exhibition invites reflection on the legacy of conflict and the importance of peace.</string>
+    <string name="spacedes">"Exploring the Space" is an immersive exhibition that invites visitors to engage with the mysteries and marvels of outer space."\n""\n" Through interactive displays, models, and multimedia installations, guests can learn about planets, galaxies, and the future of space exploration."\n""\n" Highlights include real satellite imagery, astronaut experiences, and hands-on learning zones for all ages.</string>
+    <string name="visualdes">The Visual Show is a dynamic presentation of digital art, light installations, and moving images that transform the gallery into an immersive sensory experience."\n""\n" Combining technology with creativity, the show features works from leading visual artists around the world."\n""\n" Audiences are invited to walk through vivid projections and interactive displays that blur the line between reality and imagination."\n""\n" It’s a celebration of innovation, perception, and the evolving language of visual expression.</string>
+    <string name="sessiondes">The Great Museum is open from 9am to 9pm"\n" every Monday to Sunday</string>
+    <string name="sessiondes2">Exhibitions</string>
+    <string name="sessiondes3">Session 1: 09:30~11:00 "\n"Session 2: 11:30~13:00"\n"Session 3: 13:30~15:00"\n"Session 4: 15:30~17:00"\n"Session 5: 17:30~19:00"\n"Session 6: 19:30~21:00</string>
+    <string name="sessiondes4">Visual show</string>
+    <string name="sessiondes5">Show 1: 15:00"\n"Show 2: 17:00"\n"Show 3: 19:00</string>
+</resources>
