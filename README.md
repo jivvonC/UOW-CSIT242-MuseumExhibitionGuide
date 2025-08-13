@@ -2,8 +2,11 @@
 <p>This is an exhibition guide application for a museum that allow users to find out about current exhibitions and book tickets.<br> 
   This project was an assignment for CSIT242-Mobile Application Development in University of Wollongong, Australia </p>
 
-  <img src="/app/res/drawable/1.png"  width="700" height="370">
-
+<span>
+ <img src="app/src/main/res/drawable/1.png" width="200" height="500">
+ <img src="app/src/main/res/drawable/2.png" width="200" height="500">
+ <img src="app/src/main/res/drawable/3.png" width="200" height="500">
+</span>
 
 <h3>Project Description</h3>
 <p>Developed an Android application enabling users to explore museum exhibitions, view descriptions, and book tickets. Features include date/time and session selection, dynamic pricing with weekend rates and group discounts, and an intuitive UI with spinners, calendar view, number pickers, and alert dialogs. Supports multiple exhibitions with individual pricing and schedules.</p>
